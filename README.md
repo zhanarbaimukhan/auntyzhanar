@@ -1,2 +1,1 @@
-# auntyzhanar
-Back to reality 😜 
+# myproject
